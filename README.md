@@ -3,17 +3,17 @@
 ![](https://img.shields.io/badge/Version-1.0.0-lime?style=for-the-badge) ![](https://img.shields.io/badge/Language-Javascript-yellow?style=for-the-badge)
 
 
-![](https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/banner.png)
+![](https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/banner.png)
 
 # Screenshots
 
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/help.png"/>
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/subdo.png"/>
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/ip.png"/>
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/subnet.png"/>
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/dnslookup.png"/>
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/nmap.png"/>
-<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Bot/master/.img/hash.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/help.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/subdo.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/ip.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/subnet.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/dnslookup.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/nmap.png"/>
+<img src="https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/hash.png"/>
 
 # How to install ?
 
