@@ -31,6 +31,9 @@
 
 </pre>
 
+<pre>
+! input your bot token in .env file
+</pre>
 
 # How to run ?
 
