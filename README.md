@@ -1,6 +1,7 @@
 # Say It Machine
 <p>Say It Machine is discord bot for web penetration</p>
-<img src="https://img.shields.io/badge/Version-1.0.0-lime?style=for-the-badge"/> <img src="https://img.shields.io/badge/Language-Javascript-yellow?style=for-the-badge"/>
+
+![](https://img.shields.io/badge/Version-1.0.0-lime?style=for-the-badge) ![](https://img.shields.io/badge/Language-Javascript-yellow?style=for-the-badge)
 
 
 ![](https://raw.githubusercontent.com/FajarTheGGman/Say-It-Machine/master/.img/banner.png)
